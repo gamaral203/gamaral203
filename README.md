@@ -1,5 +1,9 @@
 ## Olá,mundo!
 
+Skills
+
+[![Linguagens](https://api.devicons.dev.br/icon?icons=Java%2CGit%2CMySQL&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
+
 <div> 
   <a href="https://instagram.com/gab_amaraall" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
