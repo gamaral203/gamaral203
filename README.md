@@ -1,8 +1,20 @@
-## Olá,mundo!
+## Olá, mundo! 👋
 
-Skills
+## 👨‍💻 Sobre mim  
 
-[![Linguagens](https://api.devicons.dev.br/icon?icons=Java%2CGit%2CMySQL&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
+Sou estudante e entusiasta de tecnologia, sempre em busca de aprender e evoluir.  
+Atualmente explorando **Java, Git e MySQL**, mas aberto a novos desafios e ferramentas.  
+Gosto de transformar ideias em projetos e compartilhar meu progresso por aqui 🚀  
+
+---
+
+## 🚀 Skills
+
+[![Linguagens](https://api.devicons.dev.br/icon?icons=Java%2CGit%2CMySQL&size=48&theme=dark&perline=30)](https://devicons.dev.br/) 
+
+---
+
+## 🌐 Conecte-se comigo  
 
 <div> 
   <a href="https://instagram.com/gab_amaraall" target="_blank">
