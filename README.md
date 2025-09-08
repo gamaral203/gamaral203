@@ -30,3 +30,8 @@ Gosto de transformar ideias em projetos e compartilhar meu progresso por aqui ğŸ
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
+
+---
+
+### ğŸ¤– Linguagens e Tecnologias
+
