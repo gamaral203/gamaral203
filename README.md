@@ -2,8 +2,7 @@
 
 
 <div style="display: inline_block"><br>
-  ### Skills
-
+ ## Skills
 [![Linguagens](https://api.devicons.dev.br/icon?icons=Java%2CGit%2CMySQL&size=48&theme=dark&perline=30)](https://devicons.dev.br/) 
 
 
