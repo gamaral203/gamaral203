@@ -2,15 +2,18 @@
 
 ## 👨‍💻 Sobre mim  
 
-Sou estudante e entusiasta de tecnologia, sempre em busca de aprender e evoluir.  
-Atualmente explorando **Java, Git e MySQL**, mas aberto a novos desafios e ferramentas.  
-Gosto de transformar ideias em projetos e compartilhar meu progresso por aqui 🚀  
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia.  
+Atualmente focado em **Java, Spring Boot, Git e MySQL**, buscando evoluir constantemente através de projetos práticos e estudos contínuos.  
+
+Tenho interesse em desenvolvimento **Back-end** e estou em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior, onde eu possa aplicar meus conhecimentos, aprender com a equipe e crescer profissionalmente. 🚀
 
 ---
 
 ## 🚀 Skills
 
 [![Linguagens](https://api.devicons.dev.br/icon?icons=Java%2CGit%2CMySQL&size=48&theme=dark&perline=30)](https://devicons.dev.br/) 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 
 ---
 
@@ -33,10 +36,4 @@ Gosto de transformar ideias em projetos e compartilhar meu progresso por aqui �
 
 ---
 
-## 📊 GitHub Stats
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=gamaral203_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gamaral203&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
