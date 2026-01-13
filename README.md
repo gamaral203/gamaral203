@@ -2,10 +2,14 @@
 
 ## 👨‍💻 Sobre mim  
 
+
 Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia.  
 Atualmente focado em **Java, Spring Boot, Git e MySQL**, buscando evoluir constantemente através de projetos práticos e estudos contínuos.  
 
+Possuo também **conhecimento básico em desenvolvimento web com HTML e CSS**, o que me permite compreender a estrutura e o visual das aplicações.  
+
 Tenho interesse em desenvolvimento **Back-end** e estou em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior, onde eu possa aplicar meus conhecimentos, aprender com a equipe e crescer profissionalmente. 🚀
+
 
 ---
 
