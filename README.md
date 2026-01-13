@@ -35,10 +35,8 @@ Gosto de transformar ideias em projetos e compartilhar meu progresso por aqui ðŸ
 
 ## ðŸ“Š GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gamaral203&show_icons=true&theme=tokyonight&v=1" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gamaral203&layout=compact&theme=tokyonight&v=1" />
-</p>
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=gamaral203_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gamaral203&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
