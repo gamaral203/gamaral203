@@ -11,7 +11,7 @@ Tenho interesse em desenvolvimento **Back-end** e estou em busca da minha primei
 
 ## 🚀 Skills
 
-[![Skills](https://api.devicons.dev.br/icon?icons=Java%2CSpring%2CSpringBoot%2CMySQL%2CHTML%2CCSS%2CGit%2CGitHub&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
+[![Skills](https://api.devicons.dev.br/icon?icons=java%2Cspring%2Cspringboot%2Cmysql%2Chtml5%2Ccss3%2Cgit%2Cgithub&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
 
 
 
