@@ -33,7 +33,11 @@ Gosto de transformar ideias em projetos e compartilhar meu progresso por aqui �
 
 ---
 
-### 🤖 Linguagens e Tecnologias  
+## 📊 GitHub Stats
 
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=gamaral203&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> | <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamaral203&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/> |
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
 
+---
