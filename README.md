@@ -40,4 +40,5 @@ Gosto de transformar ideias em projetos e compartilhar meu progresso por aqui ðŸ
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamaral203&layout=compact&theme=tokyonight" />
 </p>
 
+
 ---
