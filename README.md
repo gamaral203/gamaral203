@@ -3,7 +3,7 @@
 ## 👨‍💻 Sobre mim  
 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia.  
+Sou estudante de Análise e Desenvolvimento de Sistemas e engenharia de software, além de ser apaixonado por tecnologia.  
 Atualmente focado em **Java, Spring Boot, Git e MySQL**, buscando evoluir constantemente através de projetos práticos e estudos contínuos.  
 
 Possuo também **conhecimento básico em desenvolvimento web com HTML e CSS**, o que me permite compreender a estrutura e o visual das aplicações.  
