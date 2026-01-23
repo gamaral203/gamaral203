@@ -1,12 +1,3 @@
-<div align="center">
-  <a href="https://github.com/gamaral203">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gamaral203&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamaral203&layout=compact&theme=radical"/>
-  </a>
-</div>
-
----
-
 ## Olá, mundo! 👋
 
 ## 👨‍💻 Sobre mim  
@@ -17,6 +8,17 @@ Atualmente focado em **Java, Spring Boot, Git e MySQL**, buscando evoluir consta
 Possuo também **conhecimento básico em desenvolvimento web com HTML e CSS**, o que me permite compreender a estrutura e o visual das aplicações.  
 
 Tenho interesse em desenvolvimento **Back-end** e estou em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior, onde eu possa aplicar meus conhecimentos, aprender com a equipe e crescer profissionalmente. 🚀
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/gamaral203">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gamaral203&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamaral203&layout=compact&theme=radical"/>
+  </a>
+</div>
 
 ---
 
