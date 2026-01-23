@@ -15,7 +15,7 @@ Tenho interesse em desenvolvimento **Back-end** e estou em busca da minha primei
 
 <div align="center">
   <a href="https://github.com/gamaral203">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gamaral203&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gamaral203&show_icons=true&theme=dracula"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamaral203&layout=compact&theme=radical"/>
   </a>
 </div>
